@@ -2,4 +2,4 @@
 
 > IGNORE
 
-Corresponding corpus store for [Angry-Fuzzer](github.com/Snehil-Shah/Angry-Fuzzer)'s sample target.
+Corresponding corpus store for [Angry-Fuzzer](https://github.com/Snehil-Shah/Angry-Fuzzer)'s sample target.
